@@ -1,0 +1,10 @@
+{var} + ToLower() if input was in capital case it will turn it into lower case
+
+
+Get and Set property 
+
+public 
+private 
+protected 
+internal 
+access level

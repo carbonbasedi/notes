@@ -1,0 +1,26 @@
+overload methods 
+c# working steps
+optional parameters in methods 
+params	
+
+c# workbook
+
+Value type reference type
+mutable immutable
+
+ref out type
+heap and Stack
+string.empty
+Ends with 
+starts with
+
+
+how Stringpool works.
+Heap and stack 
+out transfers value to reference 
+ 
+
+What is String and StringBuilder
+
+
+ 

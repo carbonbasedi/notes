@@ -1,0 +1,16 @@
+Try to make Methods only functional 
+
+
+which only does one thing and returns only whem we ask
+
+readonly can be set so it cannot be set in any other class or main
+
+readonly can only be set in constructor
+
+difference between readonly and private
+is private (all members of class) 
+can be set different value within class
+but readonly can be set in 
+
+
+Read about differeces between Private field and readonly 

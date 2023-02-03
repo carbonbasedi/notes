@@ -1,0 +1,82 @@
+				    	CODE ACADEMY PROGRAMMING-FULLSTACK
+						0. PRE INTRO	 
+					Computer science basics
+computer understands us through it's CPU(central processing unit) where we send different kinds of information using our input modules ( for example keyboard ) and it takes input from us and analyzes and gives back answer based upon our given parameters( settings or parameters we want it to return us an answer )
+
+we send information using our physical input systems and it goes down into CPU after passing several different phases and turning into binary code also known as Machine code.
+
+Binary or machine code consists of 1s and 0s and which can be arranged into groups of 8 namely bytes.
+8 bits = 1 byte 
+using this knowledge we can create system which can understand our inputs 
+
+for example letters in our keyboards are encoded using ACSII system. ASCII system consists of 256 elements starting from 0 to 255 each can be represented in binary. Which when sent to CPU ti will give back answer with it's corresponding
+
+
+						1.INTRODUCTION					
+
+					  1.1 Working with CMD(Command line) 
+
+CMD is for working with system through using shell manager.
+There is lots of different versions of shell scripting tools such as
+ 
+bash-ios,linux
+zsh-linux
+powershell-ms
+
+some commands for bash(my preferred shell :
+
+pwd - print working directory
+mkdir - create folder in directory
+rmdir - remove folder in directory
+cd - change directory
+cd .. - go one folder back 
+cd ../.. - go two folders back
+shutdown now - turns off the machine
+mv - to move files or folders from one place to another or rename them
+[TAB] key - to autofill
+
+					1.2 Working with GIT / Git Bash / GitHub
+
+Git is a command line tool  - (like shell)
+GitHub is a graphical user interface (a website)
+
+Git can be installed on a local machine 
+GitHub is hosted on the web and it is exclusively cloud-based 
+
+With Git we can manage our source code history 
+with GitHub we can store our codes in a remote repository using Git 
+
+There is three phases process of uploading files to a repository 
+
+phase 1 - Local
+
+in phase one we have our files created and ready for uploading(pushing)
+first we initialize git configuration files in working directory so we can start the process of uploading(pushing)
+
+phase 2 - Stage 
+after initialization we can move our files from local to stage with [git add " "] command and commiting them to this stage by [git commit -m " "] where we can check the status of our files if they are commited or just added with [git status] command 
+
+phase 3 - Remote
+
+commands for using Git Bash 
+
+git init  -  initializes .git folder in a working directory, where all the configuration files are located for making connection between a local machine and a repository
+
+git add [insert file name here] or [.(dot) for all files] to 
+
+
+
+
+
+
+							2.C#
+				2.1  C language family and C like languages
+C# is one of the popular members of C language family along with C itself and C++
+
+C# is mainly oriented around OOP( object oriented programming ) but it can also be used with other programming paradigms 
+
+C# is CASE SENSITIVE , COMPILED  programming language. 
+
+
+
+

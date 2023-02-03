@@ -1,0 +1,79 @@
+we cannot create object from abstract class
+
+
+abstract class can keep abstract method in itself
+
+abstract class is a base class
+
+we cannot inherit from abstract class
+
+we can create classes( abstract and not )
+in abstract class
+
+abstract class can keep abstract and non abstract methods in itself
+
+concrete class can't keep abstract method in itself 
+
+abstraction is for not repeating yourself
+and creates restriction for base class so that you can't create an object from an abstract class because there si nothing concrete about it.
+
+you can create an abstract method in abstract class and drived classes can either override the given method or also become base itself and forward given abstract method to a next drived class 
+
+abstract class can keep an abstract and non abstract method 
+BUT
+non abstract class can't keep an abstract method in itself
+
+base abstract class mst be as more open as possible (data access modifier of it )
+
+interface  name must start with "I"
+
+unlike base classes we can implement several interfaces to a derived class
+
+interfaces cannot be abstract
+
+in one class we can create several interfaces
+
+
+
+namespace works like an adress  logic
+
+it's like a folder which contains folders or files 
+
+namespace is named after assembly (program itself)
+
+within one namespace we cannot write two class with smae name works exactly like a folder and file logic
+
+when calling a class from different namespace we must give it's namespace ( adress) so that our main can find different namespace
+
+we can use different namespaces by adding [using <namespace>] at the start of main(program)
+
+even though we can add diferent namespace within main using [using] 
+we have to define which class we are calling if the classes have the same name 
+
+we can create namespace within namespace
+
+we need to have one executable(.exe) and rest as .dll 
+
+DATA ACCESS LAYER
+
+all the value data types are non nullable!!!!!
+
+all the reference types are nullable!!!!
+
+
+we can add ? in front of value types so that we can make it nullable
+
+we use set when we assing a value to 
+
+high level module 
+low level module  
+
+solid priciple 
+
+
+Read about 4 principles of OOP  
+
+
+
+
+

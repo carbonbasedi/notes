@@ -1,0 +1,5 @@
+runtime polymorphism 
+compiletime polymorphism
+
+sealed override 
+override 

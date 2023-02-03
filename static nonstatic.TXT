@@ -1,0 +1,25 @@
+readonly = [access type] [data type] [name of type] {get ;}
+
+static and non static.
+
+
+
+all the members of class(methods, fields and properties ) and class itself can be static (can also be applide to a constructor)
+
+when any member of class is made static then it is saved in RAM 
+
+we can use static member in nonstatic member 
+but we can't use non static member in static member
+
+
+static ctor (constructor only works once when class is used first time )
+
+
+static class does not partake in inheritence(oop)
+
+there is no overload of static constructors 
+
+if you wanna write an extension class and method must be static
+
+
+

@@ -1,0 +1,14 @@
+Read about Classes 
+Variables how they work
+public and private classes 
+
+learn about Class logic 
+
+construcor method 
+
+override constructor 
+and 
+overload constructor
+
+
+ctor (shortcut to create new Constructor)

@@ -1,0 +1,28 @@
+CLASS is a part of PROJECT
+and all CLASSES has MEMBERS which can be set with "ACCESS MODIFIER" ("CLASS" itself included)
+Class members are 
+
+FIELDS 
+METHODS
+PROPERTIES
+
+we can set all this members access modifiers 
+
+ACCESS MODIFIERS are the following
+
+INTERNAL
+PUBLIC 
+PRIVATE
+PROTECTED
+
+internal: The type or member can be accessed by any code in the same assembly, but not from another assembly. In other words, internal types or members can be accessed from code that is part of the same compilation.
+
+public: The type or member can be accessed by any other code in the same assembly or another assembly that references it. The accessibility level of public members of a type is controlled by the accessibility level of the type itself.
+
+private: The type or member can be accessed only by code in the same class or struct.
+
+protected internal: The type or member can be accessed by any code in the assembly in which it's declared, or from within a derived class in another assembly.
+
+private protected: The type or member can be accessed by types derived from the class that are declared within its containing assembly.
+
+

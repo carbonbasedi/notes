@@ -1,0 +1,8 @@
+OOP continuation
+
+there is 4 principles in OOP///  abstraction, inheritance, encapsulation, and polymorphism
+
+
+,inheritence,
+
+Base class and derived class

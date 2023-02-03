@@ -1,0 +1,11 @@
+enum keeps components of the code 
+
+enum can be created outside of Main method
+
+enum is used for not repeating yourself
+
+components of enum is automatically assinged number periodically 
+and we can assign  which value type enum is e.g. int , byte
+
+enum will be used alot ahead so read about it !!!
+
